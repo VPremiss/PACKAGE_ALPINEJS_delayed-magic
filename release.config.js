@@ -1,4 +1,6 @@
 module.exports = {
+    branches: ['main'],
+    repositoryUrl: 'https://github.com/VPremiss/alpine-delayed-magic',
     plugins: [
         '@semantic-release/commit-analyzer',
         '@semantic-release/release-notes-generator',
@@ -12,4 +14,5 @@ module.exports = {
         ],
         '@semantic-release/github',
     ],
+    debug: true,
 };
