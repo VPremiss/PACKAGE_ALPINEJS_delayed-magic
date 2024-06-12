@@ -7,7 +7,7 @@
 # AlpineJS Delayed Magic
 An [AlpineJS](https://alpinejs.dev/) **plugin** to enhance it with cumulative timed-out callbacks to be executed.
 
-It's very useful when it comes to front-end development where one might forget how many `setTimeout()`s were performed prior and account for that timing difference. And with this package, you've no-brainer mode enabled! Just `$delay(() => console.log('your callback'), 1000)` and it would respect all the parent elements' `$delay()` calls as well as `x-delay` attributes (that hold time only - **all in milliseconds**) and basically adding those delays to the 1 second that we have, for our example...
+It's very useful when it comes to **front-end development** where one might forget how many `setTimeout()`s were performed prior and account for that timing difference. And with this package, you've no-brainer mode enabled! Just `$delay(() => console.log('your callback'), 1000)` and it would respect all the parent elements' `$delay()` calls as well as `x-delay` attributes (that hold time only - **all in milliseconds**) and basically adding those delays to the 1 second that we have, for our example...
 
 
 ## Installation
