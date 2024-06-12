@@ -1,6 +1,6 @@
 {
   "name": "@vpremiss/alpine-delayed-magic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AlpineJS accumulative and parent-respecting timeouts plugin",
   "keywords": [
     "alpinejs",
