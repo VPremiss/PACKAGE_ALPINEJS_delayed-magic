@@ -55,7 +55,7 @@ It's very useful when it comes to front-end development where one might forget h
   </div>
   ```
 
-  ![2024-06-12_03-40](https://github.com/VPremiss/alpinejs-delayed-magic/assets/121377476/364023df-f768-4308-b174-9c1883720291)
+  ![2024-06-12_03-40](https://github.com/VPremiss/alpine-delayed-magic/assets/121377476/cb771694-7409-4e27-8177-75de37589454)
 
 
 ## Support
