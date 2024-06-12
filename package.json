@@ -1,0 +1,44 @@
+{
+  "name": "@vpremiss/alpine-delayed-magic",
+  "version": "1.0.0",
+  "description": "AlpineJS accumulative and parent-respecting timeouts plugin",
+  "keywords": [
+    "alpinejs",
+    "plugin",
+    "setTimeout",
+    "timeout",
+    "timedout",
+    "cumulative",
+    "delay",
+    "delayed",
+    "magic",
+    "callback",
+    "tallstack"
+  ],
+  "author": "GoodM4ven <goodm4ven@proton.me>",
+  "license": "MIT",
+  "homepage": "https://github.com/VPremiss/alpine-delayed-magic#readme",
+  "bugs": {
+    "url": "https://github.com/VPremiss/alpine-delayed-magic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VPremiss/alpine-delayed-magic.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "esbuild": "^0.17.19"
+  },
+  "peerDependencies": {
+    "alpinejs": "^3.13.7"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "build": "esbuild src/index.js --format=esm --bundle --minify --sourcemap --outfile=dist/alpine-delayed-magic.js"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1"
+  }
+}
