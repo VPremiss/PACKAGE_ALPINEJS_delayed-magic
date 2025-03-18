@@ -55,7 +55,7 @@ It's very useful when it comes to **front-end development** where one might forg
   </div>
   ```
 
-  ![2024-06-12_03-40](https://github.com/VPremiss/alpine-delayed-magic/assets/121377476/cb771694-7409-4e27-8177-75de37589454)
+  ![2024-06-12_03-40](https://github.com/VPremiss/PACKAGE_ALPINEJS_delayed-magic/assets/121377476/cb771694-7409-4e27-8177-75de37589454)
 
 
 ## Support
